@@ -1,0 +1,14 @@
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\bin\Debug\net7.0\ZooProject.exe
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\bin\Debug\net7.0\ZooProject.deps.json
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\bin\Debug\net7.0\ZooProject.runtimeconfig.json
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\bin\Debug\net7.0\ZooProject.dll
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\bin\Debug\net7.0\ZooProject.pdb
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.AssemblyInfoInputs.cache
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.AssemblyInfo.cs
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.csproj.CoreCompileInputs.cache
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.dll
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\refint\ZooProject.dll
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.pdb
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ZooProject.genruntimeconfig.cache
+E:\coding\dersdown\zoo-project\ZooProject\ZooProject\obj\Debug\net7.0\ref\ZooProject.dll
